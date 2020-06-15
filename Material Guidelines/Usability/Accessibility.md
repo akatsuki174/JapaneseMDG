@@ -6,6 +6,10 @@
 
 ## アクセシビリティを理解する
 
+製品のアクセシビリティを向上させることで、弱視、失明、聴覚障害、認知障害、運動障害、腕の骨折などの状況的障害を持つユーザも含めたあらゆるユーザの使い勝手を向上させることができます。
+
+* [Google ユーザ補助機能](https://www.google.com/accessibility/)
+* [Designing for Global Accessibility, Part I](https://design.google/library/designing-global-accessibility-part-1/)
 
 ## 支援技術
 
