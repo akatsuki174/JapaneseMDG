@@ -11,6 +11,12 @@
 * [Google ユーザ補助機能](https://www.google.com/accessibility/)
 * [Designing for Global Accessibility, Part I](https://design.google/library/designing-global-accessibility-part-1/)
 
+### 主義
+
+明瞭：明確なCTAを持ったわかりやすいレイアウトをデザインすることで、ユーザを導きましょう。
+安定感：様々なユーザに対応できるようにアプリをデザインしましょう。
+特殊性：タッチ、キーボード、マウスなどの入力方法をサポートするのと同じように、プラットフォーム固有の支援技術をサポートしましょう。
+
 ## 支援技術
 
 
