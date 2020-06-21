@@ -127,3 +127,15 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 #### レスポンシブレイアウト
 
 柔軟で、レスポンシブなレイアウトは、画面サイズに合わせてコンテンツを拡張するのに役立ちます。これにより、特定のデバイスタイプや様々な種類の解像度で完全には表示できないなどの、コンテンツの切り落としを避けることができます。
+
+#### グループされたアイテム
+
+関連事項を近くに置いてグループ化することで、読みやすさを向上させることができます。
+
+[スクショ]
+
+良い例：スライダーの値がスライダーコントロールの近くにあります。
+注意すべき例：スライダーの値がコントロールから遠すぎる場合は、スライダーの値を移動することを検討してください。
+
+* [Pixel density](https://material.io/design/layout/pixel-density.html)
+* [Language considerations](https://material.io/design/typography/language-support.html#language-considerations)
