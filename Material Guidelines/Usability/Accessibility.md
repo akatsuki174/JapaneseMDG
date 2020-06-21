@@ -139,3 +139,11 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 
 * [Pixel density](https://material.io/design/layout/pixel-density.html)
 * [Language considerations](https://material.io/design/typography/language-support.html#language-considerations)
+
+### タイポグラフィ
+
+#### フォント
+
+読みやすさを向上させるために、ユーザはフォントサイズを大きくすることがあります。モバイルデバイスやブラウザには、システム全体のフォントサイズを調節できる機能が搭載されています。Androidアプリでシステムのフォントサイズを有効にするには、テキストとそれに関連するコンテナをスケーラブルピクセル（sp）で測定できるようにしておきます。
+
+大きなフォントや外国語のフォントを配置できるくらいの十分なスペースを確保してください。外国語フォントの推奨サイズについては、[Line Height](https://material.io/design/typography/language-support.html#language-considerations)を参照してください。
