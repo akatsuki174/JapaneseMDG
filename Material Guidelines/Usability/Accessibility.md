@@ -173,3 +173,13 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 注意すべき例：画像を説明するのに1,2単語しか使わないようだと、有益な情報にはなりません。
 
 代替テキストの例：Skyline
+
+[スクショ]
+
+良い例：スクリーンリーダーに素早く読まれるような短く簡潔な代替テキストを書いてユーザにコンテキストを提供しましょう。
+
+代替テキストの例：A rooftop view of the Tokyo Tower and skyline at night
+
+注意すべき例：代替テキストが長い説明になっていると、切り捨てられてしまうことがあります。ほとんどのスクリーンリーダーは125文字以上のテキストを読みません。
+
+代替テキストの例：The Tokyo skyline. Taken at night from a local hotel rooftop. This image was taken with a digital SLR on March 7, 2014 during a full moon
