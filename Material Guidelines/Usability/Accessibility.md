@@ -183,3 +183,15 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 注意すべき例：代替テキストが長い説明になっていると、切り捨てられてしまうことがあります。ほとんどのスクリーンリーダーは125文字以上のテキストを読みません。
 
 代替テキストの例：The Tokyo skyline. Taken at night from a local hotel rooftop. This image was taken with a digital SLR on March 7, 2014 during a full moon
+
+[スクショ]
+
+良い例：ターゲットを絞ったキーワードを入れましょう。
+
+代替テキストの例：An evening skyline view in Shibakoen, Minato City, Tokyo, Japan
+
+悪い例：単にSEOを向上させる目的で代替テキストにキーワードを配置すると、スクリーンリーダーユーザを混乱させる可能性があります。
+
+代替テキストの例：Tokyo, tok yo, Japan, japan, ja pan, sushi, tower, evening, night, buildings, build, sky, skyline, view
+
+
