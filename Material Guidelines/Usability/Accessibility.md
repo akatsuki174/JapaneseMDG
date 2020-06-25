@@ -194,4 +194,12 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 
 代替テキストの例：Tokyo, tok yo, Japan, japan, ja pan, sushi, tower, evening, night, buildings, build, sky, skyline, view
 
+[スクショ]
 
+良い例：「の画像」「の図」という言葉を使わずに、画像を説明できる代替テキストを書きましょう。
+
+代替テキスト例：A cityscape featuring the Tokyo Tower at night
+
+注意すべき例：代替テキストに「の画像」「の図」を含める必要はありません。
+
+代替テキスト例：An image of the Tokyo Tower
