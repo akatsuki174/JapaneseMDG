@@ -209,3 +209,9 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 画像の中や周辺のテキストは画像に関する重要な情報を表しているため、アクセシビリティを考慮する必要があります。
 
 [スクショ]
+
+良い例：長い説明にはキャプションを使用しましょう。
+
+キャプションの例：Originally a staple in the Presidential library, this 1920s antique rocking chair now resides in the home of Dr. Black. It will be available at auction this coming fall in Boston.
+
+代替テキストの例：Mahogany wood and green velvet tufted antique rocking chair in a home library
