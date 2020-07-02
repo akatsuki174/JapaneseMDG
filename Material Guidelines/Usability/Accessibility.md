@@ -215,3 +215,7 @@ iOSでは44x44ptが推奨されています。プラットフォーム固有の�
 キャプションの例：Originally a staple in the Presidential library, this 1920s antique rocking chair now resides in the home of Dr. Black. It will be available at auction this coming fall in Boston.
 
 代替テキストの例：Mahogany wood and green velvet tufted antique rocking chair in a home library
+
+注意すべき例：キャプションや代替テキストに同じ情報を繰り返すと、スクリーンリーダーを使用しているユーザの動きを鈍らせることになってしまいます。
+
+キャプションと代替テキストの例：The antique mahogany wood and tufted green velvet rocking chair from the 1920s in the home library of Dr. Black.
